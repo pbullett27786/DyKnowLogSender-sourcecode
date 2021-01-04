@@ -1,1 +1,1 @@
-# Dyknow log center sourcecode
+# DyKnowLogSender Source Code
